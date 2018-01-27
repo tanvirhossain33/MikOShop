@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/frontEnd/home/homeContent.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/admin/product/createProduct.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/app/Http/Controllers/ProductController.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/admin/home/homeContent.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/frontEnd/category/categoryContent.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/app/Http/Controllers/CheckoutController.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/app/Http/Controllers/OrderController.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/frontEnd/includes/header.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/frontEnd/includes/menu.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/frontEnd/paypal.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/admin/master.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/frontEnd/cart/cartContent.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/app/Http/Controllers/WelcomeController.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/admin/includes/header.blade.php</file>
+            <file>file:/C:/xampp/htdocs/Smart_shop/resources/views/admin/includes/menu.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
